@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(72, 72, 72);
+
+}
+img{
+    width:200px;
+
+}
+h1{
+    background-color: grey;
+    color:whitesmoke;
+    text-align:center;
+}
+table{
+    margin-top:5%;
+    width:100%;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+}
+thead{
+    font-size:1.4em;
+    font-weight:800;
+}
+table,td{
+    border-collapse: collapse;
+    border:1px solid rgb(255, 255, 255);
+}
